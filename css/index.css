@@ -47,5 +47,8 @@ a{
     text-decoration: none;
     color: green;
 }
-
+.nav-link{
+    text-align: center;
+    border: 1px solid black;
+}
 
